@@ -1,0 +1,81 @@
+body {
+    background: black;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 15px;
+}
+.container {
+    background: white;
+    width: 400px;
+    height: 500px;
+    margin: auto;
+}
+/*Inicio parte superior*/
+.box1 {
+    display: flex;
+}
+.box1-1 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.fa-html5 {
+    font-size: 23px;
+    padding-left: 10px;
+    margin: 0;
+}
+.html5icon {
+    margin-top: 0;
+    padding-top: 14px;
+}
+.box1 p {
+    font-size: 12px;
+    margin: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 7px;
+}
+.fa-ellipsis-v {
+    margin-left: 285px;
+}
+.elipsis {
+    padding-right: 10px;
+    font-size: 22px;
+    padding-top: 10px;
+}
+/*Fin parte superior*/
+
+/*Inicio imagen*/
+.photo {
+    margin-top: 0;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+/*Fin imagen*/
+
+/*Inicio iconos*/
+.icon {
+    padding-left: 10px;
+    padding-top: 8px;
+    font-size: 24px;
+}
+.fa-bookmark {
+    float: right;
+    padding-right: 15px;
+    padding-top: 2px;
+}
+/*Fin iconos*/
+
+/*Inicio likes*/
+.likes {
+    padding-left: 10px;
+    font-size: 13px;
+}
+/*Fin likes*/
+
+/*Inicio pie de foto*/
+.foot p {
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 14px;
+}
